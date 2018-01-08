@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #b1871f;
+  background: #9df612;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2662,4 +2662,32 @@ embed {
 }
 .header {
   background: url("http://ojoba1c98.bkt.clouddn.com/img/header/header_background.jpg");
+}
+.site-subtitle {
+  font-size: 15px;
+  color: #fff;
+}
+.site-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+.brand {
+  background: transparent;
+}
+.menu {
+  margin-top: 20px;
+  padding-left: 0;
+  text-align: center;
+  background: rgba(240,240,240,0.5);
+  margin-left: auto;
+  margin-right: auto;
+  width: 530px;
+  border-radius: initial;
+}
+.post {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding: 25px;
+  -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
+  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
